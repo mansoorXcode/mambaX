@@ -1,0 +1,45 @@
+ANN--> CNN-->RNN--> Transformer architecture ---> mamba architecture
+
+Meanings : 
+1.  Glomerular segmentation : Glomerular segmentation is the automated process of identifying and outlining glomeruli (kidney filtering units) in digital microscope images. 
+2. Boundary enhancement : Boundary enhancement, primarily in computer vision and deep learning, refers to techniques that improve the clarity and accuracy of edges or borders within images, crucial for tasks like semantic segmentation, medical imaging, and object detection, by using specialized modules. like 
+3. Symmetric encoder–decoder :A symmetric encoder-decoder is a neural network architecture where the decoder component mirrors the structure of the encoder component. This symmetry can be in terms of the number of layers, the number of neurons/filters at corresponding levels, or even shared weights between the corresponding encoding and decoding layers. 
+4. mamba architecture :The Mamba architecture is a novel deep learning framework for sequence modeling that serves as an efficient and high-performing alternative to the dominant Transformer architecture, particularly for very long sequences.
+5. renal pathological images : t
+6. linear computational complexity :Linear computational complexity, denoted as O(n), means an algorithm's execution time grows directly and proportionally to the size (n) of its input.
+7. Medical image segmentation :  
+
+
+
+
+The Multi-scale Adaptive Fusion (MAF) module processes irregular tissue morphology,
+the Hybrid Boundary Detection (HBD) module handles boundary feature extraction, 
+the Boundary-guided Attention (BGA) module achieves boundary-aware feature refinement, and
+ the Mamba-based Fused Decoder Block (MFDB) completes boundarypreserving reconstruction 
+
+
+
+🔹Abbreviations → Full Names
+BM-UNet → Boundary-enhanced U-Net with Mamba Architecture
+CKD → Chronic Kidney Disease
+COD → Camouflaged Object Detection
+MAF → Multi-scale Adaptive Fusion
+HBD → Hybrid Boundary Detection
+BGA → Boundary-guided Attention
+MFDB / MFD → Mamba Fused Decoder Block
+mIoU → mean Intersection over Union
+FPS → Frames Per Second
+FLOPs → Floating Point Operations
+PAS → Periodic Acid–Schiff (staining method)
+DN → Diabetic Nephropathy
+NEP25 → Nephrotoxic Serum Model (glomerular injury model)
+Nx5/6 (56Nx) → 5/6 Nephrectomy Model
+HuBMAP → Human BioMolecular Atlas Program
+CNN → Convolutional Neural Network
+SSM → State-Space Model
+MLP → Multi-Layer Perceptron
+NMS → Non-Maximum Suppression
+AUC → Area Under the Curve
+ROC → Receiver Operating Characteristic
+mPA → mean Pixel Accuracy
+mDice → mean Dice Coefficient
